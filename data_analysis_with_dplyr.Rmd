@@ -2,9 +2,11 @@
 title: "Data Analysis with dplyr"
 author: "Subha Yoganandan"
 date: "12/12/2019"
-output: 
+output:
+  word_document: default
+  pdf_document: default
   html_document:
-    keep_md: true
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
