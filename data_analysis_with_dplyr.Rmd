@@ -2,10 +2,11 @@
 title: "Data Analysis with dplyr"
 author: "Subha Yoganandan"
 date: "12/12/2019"
-output: html_document
+output:
+output: rmarkdown::github_document
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=TRUE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
